@@ -1,6 +1,21 @@
-body{
-    background-color: aqua;  
-  }
-  footer{
+* {
+    margin: 0;
+
+}
+
+body {
+    display: grid;
+    place-items: center;
+    background-color: aqua;
+    padding: 6px;
+}
+ol{
+    margin: 20px;
+}
+h1 {
+    color: aliceblue;
+}
+
+footer {
     background-color: blueviolet;
-  }
+}
